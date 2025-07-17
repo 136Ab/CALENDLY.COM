@@ -1,0 +1,2 @@
+[10-Jul-2025 14:23:21 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa17.rehanschool.us/public_html/CALENDLY.COM/dashboard.php on line 198
+[10-Jul-2025 14:26:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa17.rehanschool.us/public_html/CALENDLY.COM/dashboard.php on line 198
